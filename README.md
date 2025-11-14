@@ -1,5 +1,42 @@
 notion link : https://budidhabhanuchander.notion.site/tasks-2aa85094ccdc80959665df42a7ac5e46
 
+Task1:  https://wokwi.com/projects/446697471894949889   street light
+Task2:  https://wokwi.com/projects/446698333867651073   ultrasonic sensor
+Task3:  https://wokwi.com/projects/446699975541728257   soil moisture sensor
+Task4:  https://www.tinkercad.com/things/lEpiHz9c3vs/editel?sharecode=0wuNOu2ja1RDr155K5EepEAtbjrjPVOM9Y25LxfURPA  motor
+Task5:  https://wokwi.com/projects/447250584681122817   curtail lcd display
+Task6:  https://wokwi.com/projects/447147116511380481   acc , gyro ,temp
+Task7a: https://creator.kodular.io/#6164201635577856    kodular
+Task7b: https://creator.kodular.io/#5207490087092224
+Task7c: https://creator.kodular.io/#4722664582152192
+Task8:  https://wokwi.com/projects/447151567891194881   ultra using esp
+Task9:  https://wokwi.com/projects/446602330153298945   street light esp
+Task10: https://wokwi.com/projects/447302364359157761   soil moisture using esp(go and write mam's classroom)
+task 11 https://wokwi.com/projects/409312856465230849   (hard)Internet enabled Display of Ambient Parameter
+Task12: https://wokwi.com/projects/446601917061437441   home security door
+
+
+mciot tasks
+
+https://wokwi.com/projects/444674746115127297
+ultrasonic firebase task task 8
+
+task 6 
+https://wokwi.com/projects/383981664359646209
+
+
+task 10 
+https://wokwi.com/projects/415371687258065921
+
+task 12
+https://wokwi.com/projects/383260777330575361
+
+task 9
+https://wokwi.com/projects/375833305298579457
+
+task 11
+https://wokwi.com/projects/409312856465230849
+
 
 - task1  street light
     
